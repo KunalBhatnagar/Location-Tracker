@@ -63,8 +63,12 @@ Set up the PostgreSQL database:
 ## Create the database and tables as per the schema above.
 - **Update the connection details in the project.**
 
+
+
 ## Future Enhancements
 - **User Authentication: Add secure login functionality for family members.**
 - **Search and Filter: Allow filtering of countries by continent or date of visit.**
 - **Mobile-Friendly Interface: Enhance UI for mobile devices.**
 - **Advanced Visualizations: Display travel stats like the number of countries visited.**
+
+  *P.S.: Some of the URLs in the code to locate files may need to change.*
