@@ -42,6 +42,7 @@ A web application to visually track the countries visited by each family member 
 |----------------|------------|----------------------------------|
 | `id`           | INTEGER    | Unique identifier for the country |
 | `country_code` | VARCHAR(3) | ISO country code                 |
+| `country_name` | VARCHAR(10)| Country name                    |
 
 ### Table 2: `visited_countries`
 | Column         | Type       | Description                     |
